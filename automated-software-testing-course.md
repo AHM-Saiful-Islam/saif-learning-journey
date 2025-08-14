@@ -92,5 +92,10 @@ You will gain practical experience using **JUnit** for testing Java programs and
 
 ---
 
+## Course Link
+- *https://learning.edx.org/course/course-v1:DelftX+ST1x+3T2024/home*
+
+---
+
 **License:** This README is for showcasing my learning journey and is based on the  
 *Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability* course by **DelftX on edX**.
