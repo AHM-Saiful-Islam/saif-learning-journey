@@ -24,7 +24,7 @@ You must be able to:
 * **Equivalence Class Partitioning (ECP)**: Dividing input data into valid and invalid classes to minimize test cases.
 * **Boundary Value Testing (BVT)**: Testing values at, just below, and just above the boundaries.
 
-🔗 [Boundary Testing (Video)](https://www.youtube.com/watch?v=3qLtVJj9rS8)
+<a href="https://www.youtube.com/watch?v=P1Hv2sUPKeM" target="_blank">🔗 Boundary Value Analysis and Equivalence Partitioning (Video)</a>
 
 ---
 
@@ -42,8 +42,6 @@ You must be able to:
 * **Black-Box Testing**: Focuses on input/output without knowledge of internal code.
 * **Structural (White-Box) Testing**: Tests designed based on internal code structure.
 
-🔗 [Structural Testing (Slides, University of Edinburgh)](http://www.inf.ed.ac.uk/teaching/courses/st/2017-18/Ch12.pdf)
-
 ---
 
 ### 4. Testing Strategies
@@ -53,7 +51,8 @@ You must be able to:
 * **Profiling**: Analyzing performance hotspots.
 * **Test Driven Development (TDD)**: Writing tests before implementing code.
 
-🔗 [TDD in Java with JUnit (Video)](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
+<a href="https://www.youtube.com/watch?v=Jv2uxzhPFl4" target="_blank">🔗 TDD in Java with JUnit (Video)</a>
+
 
 ---
 
@@ -82,9 +81,9 @@ You must be able to:
 * **Path Coverage**: Each path through code tested.
 * **MC/DC**: Each condition independently affects decision outcomes.
 
-🔗 [structural-testing-and-code-coverage (Github post, saif-learning-journey.)](https://github.com/AHM-Saiful-Islam/saif-learning-journey/blob/main/structural-testing-and-code-coverage.md)
+<a href="https://github.com/AHM-Saiful-Islam/saif-learning-journey/blob/main/structural-testing-and-code-coverage.md" target="_blank">🔗 structural-testing-and-code-coverage (Github post, saif-learning-journey)</a>
 
-🔗 [JaCoCo Counters (Official Manual)](https://www.jacoco.org/jacoco/trunk/doc/counters.html)
+<a href="https://www.jacoco.org/jacoco/trunk/doc/counters.html" target="_blank">🔗 JaCoCo Counters (Official Manual)</a>
 
 ---
 
@@ -97,7 +96,7 @@ You must be able to:
   * **Istanbul** (JavaScript)
   * **Coverage.py** (Python)
 
-🔗 [Interview with Marc Hoffmann (JaCoCo Developer)](http://www.se-radio.net/2018/05/se-radio-episode-324-marc-hoffmann-on-code-test-coverage-analysis-and-tools/)
+<a href="http://www.se-radio.net/2018/05/se-radio-episode-324-marc-hoffmann-on-code-test-coverage-analysis-and-tools/" target="_blank">Interview with Marc Hoffmann (JaCoCo Developer)</a>
 
 ---
 
@@ -111,7 +110,7 @@ A **test plan** includes:
 * Tools required
 * Roles and responsibilities
 
-📄 [Sample Test Plan Template (Guru99)](https://www.guru99.com/download-sample-test-plan.html)
+<a href="https://www.guru99.com/download-sample-test-plan.html" target="_blank">Sample Test Plan Template (Guru99)</a>
 
 ---
 
@@ -136,7 +135,7 @@ A **test plan** includes:
   * Expected vs. actual results
   * Environment details
 
-🔗 [Jira Tutorial for Beginners](https://www.youtube.com/watch?v=oYMdA5T7eZ8)
+<a href="https://www.youtube.com/watch?v=GWxMTvRGIpc" target="_blank">Jira Tutorial for Beginners</a>
 
 ---
 
@@ -148,6 +147,6 @@ This post covers core concepts of software testing, including testing principles
 
 ✅ For deeper reading: *Pezze and Young, Software Testing and Analysis: Process, Principles and Techniques*, Wiley, 2007.
 
-📄 [Slides: Structural Testing (University of Edinburgh)](http://www.inf.ed.ac.uk/teaching/courses/st/2017-18/Ch12.pdf)
+<a href="http://www.inf.ed.ac.uk/teaching/courses/st/2017-18/Ch12.pdf" target="_blank">Slides: Structural Testing (University of Edinburgh)</a>
 
-📺 [Software Testing Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEx3hECzXbp3l5gIoHCtMwG)
+<a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOEx3hECzXbp3l5gIoHCtMwG" target="_blank">Software Testing Tutorials (YouTube Playlist)</a>
