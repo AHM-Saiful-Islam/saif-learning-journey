@@ -146,7 +146,3 @@ This post covers core concepts of software testing, including testing principles
 ---
 
 ✅ For deeper reading: *Pezze and Young, Software Testing and Analysis: Process, Principles and Techniques*, Wiley, 2007.
-
-<a href="http://www.inf.ed.ac.uk/teaching/courses/st/2017-18/Ch12.pdf" target="_blank">Slides: Structural Testing (University of Edinburgh)</a>
-
-<a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOEx3hECzXbp3l5gIoHCtMwG" target="_blank">Software Testing Tutorials (YouTube Playlist)</a>
