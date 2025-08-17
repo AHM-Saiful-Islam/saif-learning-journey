@@ -110,7 +110,7 @@ A **test plan** includes:
 * Tools required
 * Roles and responsibilities
 
-<a href="https://www.guru99.com/download-sample-test-plan.html" target="_blank">Sample Test Plan Template (Guru99)</a>
+<a href="https://www.atlassian.com/software/confluence/resources/guides/how-to/test-plan#what-is-a-test-plan" target="_blank">Sample Test Plan Template</a>
 
 ---
 
